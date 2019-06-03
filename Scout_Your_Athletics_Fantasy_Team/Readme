@@ -1,0 +1,19 @@
+Scout Your Athletics Fantasy Team
+
+Project Description
+If you were scouting out an athletics team, you would need to know more than 
+just how far each person has jumped or thrown once. You want to know who is 
+the most consistent, who fouls the least and who comes through in the clutch. 
+And you will need to decide which aspects are most important to you so you 
+can find the right balance.
+
+In this R project, you will use data frames and the dplyr package to find out
+who you should put on your team. You will use the six functions of dplyr to 
+show why you should be the next "Moneyball" star manager of an athletics team.
+
+You will use performance data collated from jumps and throws events in the 
+US from 2013-2017.
+
+It is recommended that you have completed Data Manipulation in R with dplyr, 
+Cleaning Data in R, and Introduction to the Tidyverse prior to starting this
+project.
